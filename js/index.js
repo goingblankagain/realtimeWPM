@@ -18,7 +18,6 @@ let tooSlow = "You are speaking too slow, speed it up!";
 let justRight = "You are speaking at a good, pace keep it up!";
 let currentPace;
 
-let elapsedSeconds;
 
 // runs real-time transcription and handles global variables
 const run = async () => {
