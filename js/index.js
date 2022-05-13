@@ -13,9 +13,9 @@ let currentTime;
 let diff;
 let startTime;
 let wpm;
-let tooFast = "You are speaking to fast, slow down a bit";
+let tooFast = "You are speaking too fast, slow down a bit";
 let tooSlow = "You are speaking too slow, speed it up!";
-let justRight = "You are speaking at a good, pace keep it up!";
+let justRight = "You are speaking at a good pace, keep it up!";
 let currentPace;
 
 
